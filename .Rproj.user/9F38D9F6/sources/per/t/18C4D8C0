@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580293806268.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "443292415",
+    "id" : "18C4D8C0",
+    "lastKnownWriteTime" : 1580716585,
+    "last_content_update" : 1580716585198,
+    "path" : "~/Downloads/1921 - Data Analyst - MINT/task.R",
+    "project_path" : "task.R",
+    "properties" : {
+        "cursorPosition" : "35,54",
+        "scrollLine" : "26",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

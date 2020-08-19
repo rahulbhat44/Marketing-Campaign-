@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580376150918.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1717386555",
+    "id" : "8D5A5EA1",
+    "lastKnownWriteTime" : 1580716541,
+    "last_content_update" : 1580716541372,
+    "path" : "~/Downloads/1921 - Data Analyst - MINT/Report.Rmd",
+    "project_path" : "Report.Rmd",
+    "properties" : {
+        "cursorPosition" : "63,56",
+        "docOutlineVisible" : "0",
+        "last_setup_crc32" : "CCCCD67630533ce5",
+        "scrollLine" : "62",
+        "tempName" : "Untitled4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

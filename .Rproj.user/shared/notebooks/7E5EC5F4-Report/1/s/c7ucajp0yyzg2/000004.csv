@@ -1,0 +1,3 @@
+"0",""
+"0","# shows the last 6 obs"
+"0","tail(df)"
