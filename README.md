@@ -1,3 +1,6 @@
+As an analyst in the marketing intelligence team, you are the go-to person when it comes to measuring marketing campaigns and gaining insights from our internal data. In this work sample, there are two typical scenarios , First, analyse high-level campaign data to summarize business development and come up with some key insights for marketing. Second, dig through some raw data and lookout for anomalies and trends.
+
+
 ## Introduction
 The task is to provide the detail insights into the different marketing campaigns in a market.
 
